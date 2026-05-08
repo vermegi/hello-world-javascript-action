@@ -12,7 +12,7 @@ jobs:
         id: hello
         uses: vermegi/hello-world-javascript-action@v1.1
         with:
-          who-to-greet: Mona the Octocat
+          who-to-greet: Gitte
 
       # Use the output from the `hello` step
       - name: Get the output time
