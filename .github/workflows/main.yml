@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: vermegi/hello-world-javascript-action@v1.2
+        uses: vermegi/hello-world-javascript-action@v1.3
         with:
           who-to-greet: Gitte
 
